@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulhemp.github.io/SunriseEstate/sitemap.xml
